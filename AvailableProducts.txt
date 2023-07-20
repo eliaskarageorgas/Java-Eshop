@@ -1,0 +1,171 @@
+ΙΤΕΜ_LIST 
+{
+    ITEM
+    {
+      CATEGORY TV
+      MODEL S24E500C
+      YEAR 2018
+      MANUFACTURER Samsung
+      PRICE 250.0
+      TYPE LCD
+      TV_DIMENSIONS 37 inches
+      RESOLUTION Full HD
+      CODE P0001
+      TV_PORTS HDMI x2, DVI, USB 3.0
+      PIECES 3
+    }
+    ITEM
+    {
+      CATEGORY TV
+      CODE P0002
+      MODEL 43UM7100
+      YEAR 2019
+      MANUFACTURER LG
+      PRICE 384.0
+      TYPE OLED
+      TV_DIMENSIONS 55 inches
+      RESOLUTION Ultra HD
+      TV_PORTS HDMI x3, DVI, USB 3.0 x2, Ethernet
+      PIECES 5
+    }
+    ITEM
+    {
+      CATEGORY BlueRay/DVD
+      CODE P0003
+      MODEL BDPS6700
+      YEAR 2018
+      MANUFACTURER Sony
+      PRICE 130.0
+      TYPE Blue ray
+      RESOLUTION Full HD
+      BR_DVD_FORMAT BD-R
+      PIECES 7
+    }
+    ITEM
+    {
+      CATEGORY BlueRay/DVD
+      CODE P0004
+      MODEL Ubp-X800M2
+      YEAR 2019
+      MANUFACTURER Sony
+      PRICE 248.0
+      TYPE Blue ray
+      RESOLUTION 4K
+      BR_DVD_FORMAT BD-RD
+      PIECES 9
+    }
+    ITEM
+    {
+      CATEGORY Camera
+      CODE P0005
+      MODEL EOS 4000D
+      YEAR 2019
+      MANUFACTURER Canon
+      PRICE 339.0
+      TYPE DSLR
+      CAM_MP 18.0 megapixels
+      CAM_OPTICAL_ZOOM 3.00 multiplier_x
+      CAM_DIGITAL_ZOOM 42.0x
+      CAM_DISPLAY 2.7 inches
+      PIECES 12
+    }
+    ITEM
+    {
+      CATEGORY Camera
+      CODE P0006
+      MODEL PowerShot SX420
+      YEAR 2018
+      MANUFACTURER Canon
+      PRICE 194.0
+      TYPE fixed LCD
+      CAM_MP 12 megapixels
+      CAM_OPTICAL_ZOOM 42 multiplier_x
+      CAM_DIGITAL_ZOOM 30.0x
+      CAM_DISPLAY 3 inches
+      PIECES 15
+    }
+    ITEM
+    {
+      CATEGORY Game Console
+      CODE P0007
+      MODEL PS4 Slim
+      YEAR 2017
+      MANUFACTURER Sony
+      PRICE 250.0
+      TYPE PS4
+      CONSOLE_CPU AMD Jaguar Family 16th
+      CONSOLE_GRAPHICS Radeon GCN
+      CONSOLE_SOUND AMD TrueAudio
+      CONSOLE_HDD 1 TB
+      PIECES 0
+    }
+    ITEM
+    {
+      CATEGORY Game Console
+      CODE P0008
+      MODEL Xbox One S
+      YEAR 2017
+      MANUFACTURER Microsoft
+      PRICE 299.0
+      TYPE Xbox One
+      CONSOLE_CPU AMD Jaguar Family 16th
+      CONSOLE_GRAPHICS AMD GCN
+      CONSOLE_SOUND Dolby Atmos
+      CONSOLE_HDD 1 TB
+      PIECES 12
+    }
+    ITEM
+    {
+      CATEGORY Fridge
+      CODE P0009
+      MODEL GSL760PZUZ
+      YEAR 2019
+      MANUFACTURER LG
+      PRICE 955.0
+      TYPE French Door
+      FRIDGE_COOLER 405 lt
+      FRIDGE_FREEZER 196 lt
+      ENERGY_CLASS A++
+      PIECES 5
+    }
+    ITEM
+    {
+      CATEGORY Fridge
+      CODE P0010
+      MODEL PKNB56VW30
+      YEAR 2017
+      MANUFACTURER Pitsos
+      PRICE 584.0
+      TYPE 2-Door
+      FRIDGE_COOLER 40 lt
+      FRIDGE_FREEZER 105 lt
+      ENERGY_CLASS A++
+      PIECES 9
+    }
+    ITEM
+    {
+      CATEGORY Washing Machine
+      CODE P0011
+      MODEL WQP1200G9
+      YEAR 2018
+      MANUFACTURER Pitsos
+      PRICE 385.0
+      WASH_CAPACITY 9 kg
+      WASH_ROTATION 1200/ λεπτό
+      ENERGY_CLASS A+++
+      PIECES 1
+    }
+    ITEM
+    {
+      CATEGORY Washing Machine
+      CODE P0012
+      MODEL F4J5QN3W
+      YEAR 2017
+      MANUFACTURER LG
+      PRICE 309.0
+      WASH_CAPACITY 7 kg
+      WASH_ROTATION 1400/ λεπτό
+      ENERGY_CLASS A+++
+      PIECES 3
+    }
+}
